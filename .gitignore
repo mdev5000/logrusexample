@@ -1,0 +1,7 @@
+# ignored files
+.DS_Store
+*.swp
+
+# ignored folders
+/.idea/
+/tmp/
